@@ -1,5 +1,7 @@
 # K-Means-K-Medians-
 Determine k means and K-medians using Euclidean and Manhattan distance for each K value from 1 to 9
+
+
 K-Means K-median Clustering
 Assignment for University of Liverpool COMP527
 •	The assignment.py file contains the clustering accuracy for precision. Recall, and F score values with graphical representation for each k means and K-median clusters.
